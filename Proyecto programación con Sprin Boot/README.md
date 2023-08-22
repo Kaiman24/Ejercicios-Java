@@ -10,7 +10,5 @@ El resto funciona muy bien, pero es muy mejorable.
 Integrantes del proyecto:
 
 -Kevin David Gonzales
-
 -Osmin Isai Ramos
-
 -Wilhelm Mijail Alcerro
