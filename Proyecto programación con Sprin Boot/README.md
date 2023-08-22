@@ -8,6 +8,9 @@ una compra, y que esta operación descontara unidades no fueron logradas, así q
 El resto funciona muy bien, pero es muy mejorable.
 
 Integrantes del proyecto:
+
 -Kevin David Gonzales
+
 -Osmin Isai Ramos
+
 -Wilhelm Mijail Alcerro
